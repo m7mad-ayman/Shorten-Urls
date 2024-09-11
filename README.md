@@ -30,7 +30,7 @@
     ```
   - Install Requirements
     ```
-    cd project
+    cd Shorten-Urls-master
     pip install -r requirements.txt
     ```
   - Create database
